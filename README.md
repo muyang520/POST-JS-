@@ -22,3 +22,5 @@
 ## 3.[POST+JS逆向反爬虫]3.猿人学JS逆向大赛第3题(难度简单)
 链接：https://pan.baidu.com/s/1uRoXOVdcJY9oqnG9jSlSzg 
 提取码：x6vz 
+### [点我进入B站观看:](https://www.bilibili.com/video/BV1v44y1x7eM?spm_id_from=333.999.0.0)
+
